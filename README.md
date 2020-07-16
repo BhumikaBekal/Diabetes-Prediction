@@ -1,6 +1,8 @@
 Project Topic :Diabetes Prediction
 Reference : DLithe  
 Website : www.dlithe.com
+
+
 Project done under the guidance of : DLithe
 
 Done by: Bhumika B  Usn:4NM18CS038
